@@ -1,0 +1,19 @@
+chrome_args:
+  - "--disable-gpu"
+  - "--start-maximized"
+
+edge_args:
+  - "--disable-gpu"
+  - "--start-maximized"
+
+firefox_prefs:
+  browser.download.folderList: 2
+  browser.download.dir: "/tmp"
+  browser.helperApps.neverAsk.saveToDisk: "application/pdf"
+
+
+chrome: "C:/WebDriver/chromedriver.exe"
+edge: "C:/WebDriver/msedgedriver.exe"
+firefox: "C:/WebDriver/geckodriver.exe"
+
+
