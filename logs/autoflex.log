@@ -1,0 +1,53 @@
+2025-05-30 13:19:48,279 - INFO - web_manager.py - start - 25 - Starting The Browser: chrome
+2025-05-30 13:19:48,281 - ERROR - config_loader.py - load_config - 25 - Failed To Load The Configuration File: No Configuration File Found: config/config.yaml
+2025-05-30 13:19:48,282 - ERROR - web_manager.py - start - 73 - Error Occured When Trying To Start The Browser: Failed To Load Configuration File. (Caused by: FileNotFoundError('No Configuration File Found: config/config.yaml'))
+2025-05-30 13:21:10,135 - INFO - web_manager.py - start - 25 - Starting The Browser: chrome
+2025-05-30 13:21:10,139 - INFO - config_loader.py - load_config - 21 - Successfully Loaded The Configuration File: autoflex/config/config.yaml
+2025-05-30 13:21:10,146 - ERROR - web_manager.py - start - 73 - Error Occured When Trying To Start The Browser: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-05-30 13:21:45,364 - INFO - web_manager.py - start - 25 - Starting The Browser: edge
+2025-05-30 13:21:45,368 - INFO - config_loader.py - load_config - 21 - Successfully Loaded The Configuration File: autoflex/config/config.yaml
+2025-05-30 13:21:45,375 - ERROR - web_manager.py - start - 73 - Error Occured When Trying To Start The Browser: Message: Unable to obtain driver for MicrosoftEdge; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-05-30 13:42:46,465 - INFO - web_manager.py - start - 25 - Starting The Browser: edge
+2025-05-30 13:42:46,470 - INFO - config_loader.py - load_config - 21 - Successfully Loaded The Configuration File: autoflex/config/config.yaml
+2025-05-30 13:42:46,476 - ERROR - web_manager.py - start - 73 - Error Occured When Trying To Start The Browser: Message: Unable to obtain driver for MicrosoftEdge; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-05-30 13:59:42,202 - INFO - web_manager.py - start - 25 - Starting The Browser: edge
+2025-05-30 13:59:42,206 - INFO - config_loader.py - load_config - 21 - Successfully Loaded The Configuration File: autoflex/config/config.yaml
+2025-05-30 13:59:44,783 - INFO - web_manager.py - start - 82 - edge Successfully Running
+2025-05-30 14:00:19,019 - INFO - web_manager.py - quit - 109 - Closing the browser
+2025-05-30 14:03:03,173 - INFO - web_manager.py - start - 25 - Starting The Browser: edge
+2025-05-30 14:03:03,178 - INFO - config_loader.py - load_config - 21 - Successfully Loaded The Configuration File: autoflex/config/config.yaml
+2025-05-30 14:03:05,742 - INFO - web_manager.py - start - 82 - edge Successfully Running
+2025-05-30 14:03:31,633 - INFO - web_manager.py - quit - 109 - Closing the browser
+2025-05-30 14:20:44,128 - INFO - web_manager.py - start - 25 - Starting The Browser: edge
+2025-05-30 14:20:44,132 - INFO - config_loader.py - load_config - 23 - Successfully Loaded The Configuration File: C:\Users\AZI6SGH\Desktop\AutoFlex\autoflex\core\../config/config.yaml
+2025-05-30 14:20:45,907 - INFO - web_manager.py - start - 82 - edge Successfully Running
+2025-05-30 14:21:14,916 - INFO - web_manager.py - quit - 109 - Closing the browser
+2025-05-30 14:25:16,436 - INFO - web_manager.py - start - 25 - Starting The Browser: edge
+2025-05-30 14:25:16,440 - INFO - config_loader.py - load_config - 23 - Successfully Loaded The Configuration File: C:\Users\AZI6SGH\Desktop\AutoFlex\autoflex\core\../config/config.yaml
+2025-05-30 14:25:18,282 - INFO - web_manager.py - start - 82 - edge Successfully Running
+2025-05-30 14:25:33,262 - INFO - web_manager.py - quit - 109 - Closing the browser
+2025-06-03 14:54:01,996 - INFO - web_manager.py - start - 25 - Starting The Browser: edge
+2025-06-03 14:54:02,001 - INFO - config_loader.py - load_config - 23 - Successfully Loaded The Configuration File: C:\Users\AZI6SGH\Desktop\AutoFlex\autoflex\core\../config/config.yaml
+2025-06-03 14:54:04,718 - INFO - web_manager.py - start - 82 - edge Successfully Running
+2025-06-03 14:54:04,854 - INFO - screenshot_actions.py - take_screenshot - 12 - Screenshot Saved To: startup.png
+2025-06-03 14:54:04,855 - INFO - actions.py - take_screenshot - 251 - Screenshot via Selenium saved to startup.png
+2025-06-03 14:54:18,550 - INFO - screenshot_actions.py - take_screenshot - 12 - Screenshot Saved To: baidu_home.png
+2025-06-03 14:54:18,550 - INFO - actions.py - take_screenshot - 251 - Screenshot via Selenium saved to baidu_home.png
+2025-06-03 14:54:18,550 - INFO - element_actions.py - find_element - 17 - Finding Element: ('css selector', '#kw')
+2025-06-03 14:54:18,651 - INFO - element_actions.py - click - 33 - Clicked Element: ('css selector', '#kw')
+2025-06-03 14:54:18,651 - INFO - actions.py - click - 45 - Click via Selenium: ('css selector', '#kw')
+2025-06-03 14:54:18,652 - INFO - keyboard_actions.py - type_text - 13 - Typing text: AutoFlex 调度器测试
+2025-06-03 14:54:19,531 - INFO - element_actions.py - find_element - 17 - Finding Element: ('css selector', '#su')
+2025-06-03 14:54:19,668 - INFO - element_actions.py - click - 33 - Clicked Element: ('css selector', '#su')
+2025-06-03 14:54:19,669 - INFO - actions.py - click - 45 - Click via Selenium: ('css selector', '#su')
+2025-06-03 14:54:19,670 - INFO - mouse_actions.py - move_to - 48 - Moving mouse to (500, 200) over 0.5s
+2025-06-03 14:54:20,446 - INFO - screenshot_actions.py - take_screenshot - 12 - Screenshot Saved To: after_move.png
+2025-06-03 14:54:20,446 - INFO - actions.py - take_screenshot - 251 - Screenshot via Selenium saved to after_move.png
+2025-06-03 14:54:20,447 - INFO - keyboard_listener.py - start_listener - 13 - Starting keyboard listener
+2025-06-03 14:54:20,520 - INFO - actions.py - start_keyboard_listener - 428 - Pynput keyboard listener started.
+2025-06-03 14:54:20,521 - INFO - mouse_listener.py - start_listener - 12 - Starting mouse listener
+2025-06-03 14:54:20,522 - INFO - actions.py - start_mouse_listener - 440 - Pynput mouse listener started.
+2025-06-03 14:55:00,814 - INFO - web_manager.py - quit - 109 - Closing the browser
