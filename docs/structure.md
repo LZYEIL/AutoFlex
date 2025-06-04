@@ -1,13 +1,15 @@
 ---
-title: Project Structure
+title: Framework Structure
 layout: default
 nav_order: 3
-permalink: /get-started
+permalink: /frme-structure
 ---
 
-## Project Structure
+## Framework Structure
 
 <br>
+
+### AutoFlex:
 
 ![Project Structure1](https://raw.githubusercontent.com/lzyeil/AutoFlex/main/assets/structure1.png)
 
@@ -29,6 +31,8 @@ permalink: /get-started
 <br>
 
 <br>
+
+### autoflex:
 
 ![Project Structure2](https://raw.githubusercontent.com/lzyeil/AutoFlex/main/assets/structure2.png)
 
@@ -58,6 +62,8 @@ permalink: /get-started
 <br>
 
 <br>
+
+### core:
 
 ![Project Structure3](https://raw.githubusercontent.com/lzyeil/AutoFlex/main/assets/structure3.png)
 
