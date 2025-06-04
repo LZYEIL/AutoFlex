@@ -15,9 +15,6 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: docs
 
     steps:
       - name: Checkout repository
@@ -31,15 +28,15 @@ jobs:
 
       - name: Install dependencies
         run: bundle install
+        working-directory: docs
 
       - name: Build site
-        run: bundle exec jekyll build --source . --destination ../_site
+        run: bundle exec jekyll build --source docs --destination _site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ../_site
-
+          path: _site
 
   deploy:
     needs: build
@@ -52,4 +49,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
