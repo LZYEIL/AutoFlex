@@ -2,6 +2,9 @@ title: AutoFlex Documentation
 description: The documentaion, that's it
 theme: just-the-docs
 
-url: https://lzyeil.github.io/AutoFlex/
+url: "https://lzyeil.github.io"
+baseurl: "/AutoFlex"
+search_enabled: true
+
 
 
