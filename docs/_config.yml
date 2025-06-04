@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: AutoFlex Documentation
 description: A Jekyll theme for documentation
-theme: just-the-docs
+remote-theme: just-the-docs/just-the-docs
 url: "https://lzyeil.github.io/AutoFlex" # the base hostname & protocol for your site, e.g. http://example.com
 repository: just-the-docs/just-the-docs # for github-metadata
 
