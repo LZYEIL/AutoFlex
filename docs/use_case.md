@@ -61,3 +61,7 @@ AutoFlex leverages Pynput to provide lightweight, reliable event listeners indep
 ## Summary
 
 Whether you're dealing with complex web UIs, hybrid desktop + web workflows, or system-level interactions beyond browser boundaries, **AutoFlex simplifies the entire process with a clean, integrated API** — no separate tools, no redundant code, no fuss.
+
+---
+
+© 2025 AutoFlex. Built by Zhiyuan Li
