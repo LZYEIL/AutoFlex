@@ -33,12 +33,13 @@ jobs:
         run: bundle install
 
       - name: Build site
-        run: bundle exec jekyll build
+        run: bundle exec jekyll build --source . --destination ../_site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: _site/
+          path: ../_site
+
 
   deploy:
     needs: build
