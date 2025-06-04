@@ -28,6 +28,8 @@ permalink: /get-started
 
 <br>
 
+<br>
+
 ![Project Structure2](https://raw.githubusercontent.com/lzyeil/AutoFlex/main/assets/structure2.png)
 
 - **`__pycache__/`**
@@ -52,6 +54,8 @@ permalink: /get-started
    Traditional script used to define package metadata and entry points.
 
 
+
+<br>
 
 <br>
 
