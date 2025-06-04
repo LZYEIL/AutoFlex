@@ -5,6 +5,8 @@ theme: just-the-docs
 url: "https://lzyeil.github.io"
 baseurl: "/AutoFlex"
 search_enabled: true
+favicon_ico: "/assets/favicon.ico"
+
 
 
 
