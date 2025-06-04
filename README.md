@@ -34,24 +34,27 @@ pip install autoflex
 <br>
 
 ## Quick Start
+
 Here is a basic example to get started with AutoFlex:
 
 ```python
-from autoflex.core.web_manager import WebManager
+from autoflex.web_manager import Browser
+from autoflex.actions import Actions
 
-# Initialize browser manager
-browser = WebManager()
+# Start browser
+driver = Browser.start(browser_type="chrome")
 
 # Open a webpage
-browser.open("https://www.example.com")
+driver.get("https://www.example.com")
 
 # Perform actions using unified APIs
-# ...
+Actions.click(locator="//*[@id='submit-button']")
+Actions.input_text(locator="//*[@id='username']", text="test_user")
 
 # Close browser
-browser.close()
+Browser.quit()
 ```
-For detailed usage, please refer to the documentation.
+For detailed usage, please refer to the [official documentation](https://lzyeil.github.io/AutoFlex/).
 
 <br>
 
@@ -73,7 +76,7 @@ Contributions are welcome! Please follow the guidelines below:
 <br>
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/license/mit) - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://opensource.org/license/mit) - see the [LICENSE file](https://github.com/LZYEIL/AutoFlex/blob/main/LICENSE) for details.
 
 <br>
 
