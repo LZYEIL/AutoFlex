@@ -11,7 +11,7 @@ permalink: /frme-structure
 
 ### AutoFlex:
 
-![Project Structure1](https://raw.githubusercontent.com/lzyeil/AutoFlex/main/assets/structure1.png)
+![Project Structure1](https://raw.githubusercontent.com/lzyeil/AutoFlex/main/docs/assets/structure1.png)
 
 - **`.github/workflows/`**
    Contains CI/CD workflows powered by GitHub Actions. For example, `pages.yml` automates deployment of this documentation website.
@@ -34,7 +34,7 @@ permalink: /frme-structure
 
 ### autoflex:
 
-![Project Structure2](https://raw.githubusercontent.com/lzyeil/AutoFlex/main/assets/structure2.png)
+![Project Structure2](https://raw.githubusercontent.com/lzyeil/AutoFlex/main/docs/assets/structure2.png)
 
 - **`__pycache__/`**
    Automatically generated directory that stores compiled `.pyc` files for faster module loading.
@@ -65,7 +65,7 @@ permalink: /frme-structure
 
 ### core:
 
-![Project Structure3](https://raw.githubusercontent.com/lzyeil/AutoFlex/main/assets/structure3.png)
+![Project Structure3](https://raw.githubusercontent.com/lzyeil/AutoFlex/main/docs/assets/structure3.png)
 
 - **`pyautogui_actions/`**
    Contains automation logic (*Not Comprehensive*) built with [`PyAutoGUI`](https://pyautogui.readthedocs.io/en/latest/), a library that simulates mouse and keyboard actions on the screen.
