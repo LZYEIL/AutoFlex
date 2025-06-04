@@ -13,6 +13,8 @@ permalink: /
 
 <br>
 
+[Get Started with AutoFlex](https://lzyeil.github.io/AutoFlex/all-functions)         [Framework Source Code](https://github.com/LZYEIL/AutoFlex)
+
 
 
 ## Features

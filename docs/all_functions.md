@@ -636,7 +636,7 @@ Start a Selenium WebDriver session.
 - Parameters:
   - browser_type (str): "chrome" | "firefox" | "edge"
   - remote_url (str, optional): Remote WebDriver address
-  - config_path (str, optional): Path to JSON config
+  - config_path (str, optional): Path to store the config result
 - Returns: webdriver instance
 
 ------
