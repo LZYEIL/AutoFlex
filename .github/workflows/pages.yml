@@ -1,9 +1,9 @@
-name: Deploy Documentation
+name: Deploy Just the Docs
 
 on:
   push:
     branches:
-      - "main"
+      - main
     paths:
       - "docs/**"
 
@@ -28,7 +28,6 @@ jobs:
         with:
           ruby-version: '3.3'
           bundler-cache: true
-          cache-version: 0
 
       - name: Install dependencies
         run: bundle install
@@ -39,19 +38,17 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: docs/_site/
+          path: _site/
 
   deploy:
-    runs-on: ubuntu-latest
     needs: build
-    permissions:
-      pages: write
-      id-token: write
-
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
+
