@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/LZYEIL/AutoFlex/blob/main/assets/logo.png" alt="AutoFlex Logo" width="300" height="300">
+  <img src="https://github.com/LZYEIL/AutoFlex/blob/main/docs/assets/logo.png" alt="AutoFlex Logo" width="300" height="300">
 </p>
 
 
