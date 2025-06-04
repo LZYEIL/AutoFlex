@@ -76,7 +76,7 @@ Contributions are welcome! Please follow the guidelines below:
 <br>
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/license/mit) - see the [LICENSE file](https://lzyeil.github.io/AutoFlex/LICENSE) for details.
+This project is licensed under the [MIT License](https://opensource.org/license/mit) - see the [LICENSE file](https://github.com/LZYEIL/AutoFlex/blob/main/LICENSE) for details.
 
 <br>
 
