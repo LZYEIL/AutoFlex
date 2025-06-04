@@ -8,8 +8,9 @@ permalink: /
 # Welcome to AutoFlex’s documentation!
 
 <p align="center">
-  <img src="https://github.com/LZYEIL/AutoFlex/blob/main/assets/logo.png" alt="AutoFlex Logo" width="280" height="240">
+  <img src="https://raw.githubusercontent.com/lzyeil/AutoFlex/main/assets/logo.png" alt="AutoFlex Logo" width="280" height="240">
 </p>
+
 
 <br>
 
