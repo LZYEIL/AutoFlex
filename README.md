@@ -4,6 +4,11 @@
 
 <br>
 
+<p align="center">
+  <img src="https://github.com/LZYEIL/AutoFlex/blob/main/assets/logo.png" alt="AutoFlex Logo" width="300" height="300">
+</p>
+
+
 ## Overview
 
 **AutoFlex** is a comprehensive automation framework integrating Selenium, PyAutoGUI, and Pynput to enable flexible web and system-level automation. Designed for ease of use and extensibility, AutoFlex provides unified APIs to perform browser automation, GUI interaction, and advanced input control, empowering developers and testers to build robust automation workflows effortlessly.
