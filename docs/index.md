@@ -11,7 +11,7 @@ permalink: /
 
 **AutoFlex** is a comprehensive automation framework integrating Selenium, PyAutoGUI, and Pynput to enable flexible web and system-level automation. Designed for ease of use and extensibility, AutoFlex provides an unified API to perform browser automation, GUI interaction, and advanced input control, empowering developers and testers to build robust automation work flows effortlessly.
 
-
+<br>
 
 
 
@@ -27,6 +27,8 @@ permalink: /
 
 
 
+<br>
+
 
 
 ## Motivation
@@ -38,6 +40,8 @@ In today's fast-paced software industry, new developers — especially those jus
 Rather than assuming deep technical knowledge, AutoFlex offers a minimalistic framework alongside **clear, non-specialist-friendly documentation**. Our goal is to help first-time users get up and running quickly, without needing to spend hours deciphering ambiguous docs.
 
 If you're looking for a streamlined solution that just works for web and system automation testing — with step-by-step guides, sensible defaults, and zero unnecessary complexity — AutoFlex is designed for you.
+
+
 
 
 
