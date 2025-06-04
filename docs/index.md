@@ -13,9 +13,7 @@ permalink: /
 
 <br>
 
-[Get Started with AutoFlex](https://lzyeil.github.io/AutoFlex/all-functions)         [Framework Source Code](https://github.com/LZYEIL/AutoFlex)
-
-
+<a href="https://lzyeil.github.io/AutoFlex/all-functions">Get Started</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/LZYEIL/AutoFlex">Framework Source Code</a>
 
 ## Features
 
