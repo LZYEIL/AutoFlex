@@ -7,7 +7,7 @@ permalink: /get-started
 
 ## Project Structure
 
-![Project Structure1](\assets\structure1.png)
+![Project Structure1](../assets/structure1.png)
 
 - **`.github/workflows/`**
    Contains CI/CD workflows powered by GitHub Actions. For example, `pages.yml` automates deployment of this documentation website.
