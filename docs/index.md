@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: default
 nav_order: 1
 description: "这是我的项目文档首页，使用 Just the Docs 作为主题。"
 permalink: /
